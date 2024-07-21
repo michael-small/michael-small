@@ -1,4 +1,4 @@
-# Michael Small - Lead Frontend Developer at Relationship One - Angular Fan
+# Michael Small - Lead Frontend Developer at Relationship One
 
 - Full-time Angular job + Part-time Angular Hobbyist
 - I like to improve my skills and give advice to others
