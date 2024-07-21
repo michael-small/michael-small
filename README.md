@@ -5,5 +5,6 @@
 - Contrary to my friend/coworker's take, I am not going to "marry Angular".
 - Big on forms (mostly reactive forms, learning to appreciate template driven forms) and also on reactivity with RXJS + Signals
 - Trying to get better with accessibility and testing (which go well together)
+- I use semantic commits except for this bio, pinky promise
 
 ![img](<./my social banner.jpg>)
