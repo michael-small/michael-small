@@ -1,5 +1,6 @@
 # Michael Small - Lead Frontend Developer at Relationship One
 
+- This is my personal account. `msmallest` is my work account: https://github.com/msmallest.
 - Full-time Angular job + Part-time Angular Hobbyist
 - I like to improve my skills and give advice to others
 - Contrary to my friend/coworker's take, I am not going to "marry Angular"
