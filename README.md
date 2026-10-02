@@ -1,7 +1,8 @@
 # Michael Small - Lead Frontend Developer at Relationship One
 
-- Personal account. `msmallest` is my work account: https://github.com/msmallest.
-- Full-time Angular + Part-time Angular Hobbyist
+- Personal account.
+- [`msmallest`](https://github.com/msmallest) is my work account. OS for anything requiring Bazel.
+- Full-time Angular + part-time OS
 - I like to improve my skills and give advice to others
-- Big on reactivity with RxJS/Signals, and their interoperability
+- Big on reactivity
 - Lots of thoughts on forms
